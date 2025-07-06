@@ -137,6 +137,12 @@ CREATE TABLE zepto (
 
 4. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
 
+**Outputs**
+![image](https://github.com/user-attachments/assets/c6528d6c-446b-49f8-a66f-4ed525676ffb)
+![image](https://github.com/user-attachments/assets/efcf4169-7374-4537-bf99-b18dd6ee2472)
+
+
+
 ## 📜 License
 
 MIT — feel free to fork, star, and use in your portfolio.
